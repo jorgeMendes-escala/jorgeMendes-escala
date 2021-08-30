@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2> Hello World! I'm Jorge Silva 👋</h2>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 👾 &nbsp; Learning new tecnology everyday and passionate about working on web development.
+- 💼 &nbsp; Working as a Full Stack Web Developer at HOTMART.
+- 👨🏻‍&nbsp; You can know my work on my blog [jorgemendes.com.br](https://jorgemendes.com.br/)
 
 <!--
 **jorgesilva-hotmart/jorgesilva-hotmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
