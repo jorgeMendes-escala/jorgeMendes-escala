@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jorgesilva-hotmart/jorgesilva-hotmart/master/assets/jorgesilva.png">
+<img src="https://raw.githubusercontent.com/jorgesilva-hotmart/jorgesilva-hotmart/master/assets/jorgesilva-banner.png">
 
 <h2> Hello World! I'm Jorge Silva 👋</h2>
 
